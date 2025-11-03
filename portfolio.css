@@ -619,6 +619,13 @@ nav ul li a {
     }
 }
 
+@media (max-width: 575.98px) {
+    .about, .grid-box, .projects, .contact__div {
+        margin: 5px 5px 0px 5px;
+    }
+
+}
+
 @media (min-width: 1400px) {
     body {
         max-width: 1400px;
